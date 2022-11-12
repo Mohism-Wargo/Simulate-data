@@ -4,8 +4,8 @@
         "title": "给你一瓶魔法药水",
         "author": "告五人",
         "album": "玫瑰凭证",
-        "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_真的吗.json",
-        "url": "https://jirengu.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_给你一瓶魔法药水.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "1",
@@ -13,118 +13,118 @@
         "author": "艾辰",
         "album": "错位时空",
         "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
-        "url": ""
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "2",
         "title": "黑暗森林",
         "author": "雲翼星辰",
         "album": "小九填词雲酱翻系列",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "3",
         "title": "恋愛サーキュレーション",
         "author": "花澤香菜",
         "album": "恋愛サーキュレーション & あとがたり",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "4",
         "title": "绿色",
         "author": "陈雪凝",
         "album": "绿色",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "5",
         "title": "秒针",
         "author": "阿梨粤",
         "album": "秒针",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "6",
         "title": "你还要我怎样",
         "author": "薛之谦",
         "album": "意外",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "7",
         "title": "热爱105°C的你",
         "author": "阿肆",
         "album": "热爱105°C的你",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "8",
         "title": "雾里",
         "author": "姚六一",
         "album": "雾里",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "9",
         "title": "小城夏天",
         "author": "LBI利比",
         "album": "小城夏天",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "10",
         "title": "下山",
         "author": "要不要买菜",
         "album": "下山",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "11",
         "title": "喜欢",
         "author": "阿肆",
         "album": "喜欢",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "12",
         "title": "一个人想着一个人",
         "author": "曾沛慈",
         "album": "超级女声",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "13",
         "title": "樱花樱花想见你",
         "author": "李蚊香 / 满汉全席",
         "album": "满汉全席音乐团队",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "14",
         "title": "Something Just Like This",
         "author": "The Chainsmokers / Coldplay",
         "album": "Something Just Like This",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     },
     {
         "id": "15",
         "title": "起风了",
         "author": "买辣椒也用劵",
         "album": "起风了",
-        "lyric": "",
-        "url": ""
+        "lyric": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/lyrics_错位时空.json",
+        "url": "https://github.com/Mohism-Wargo/Simulate-data/blob/main/错位时空-艾辰.mp3"
     }
 ]
